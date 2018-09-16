@@ -7,6 +7,8 @@
             "status": "The Sunway Lagoon is a theme park in Bandar Sunway, Subang Jaya, Selangor, Malaysia owned by Sunway Group",
             "timeStamp": "1403375851930",
             "url": null
+            "weatherCondition": "Heavy Rain"
+            "Temprature" : "20 "
         },
         {
             "id": 2,
@@ -15,6 +17,8 @@
             "status": "Petaling Street is a Chinatown located in Kuala Lumpur, Malaysia. Haggling is a common sight here and the place is usually crowded with locals as well as tourists. The area has dozens of restaurants and food stalls, serving local favourites such as Hokkien mee, Ikan Bakar, asam laksa and curry noodles.",
             "profilePic": "https://api.androidhive.info/feed/img/time.png",
             "timeStamp": "1403375851930"
+            "weatherCondition": "Thunderstorm"
+            "Temprature" : "23"
             
         },
         {
@@ -23,6 +27,8 @@
             "image": "https://www.tomorrowland.com/src/Frontend/Themes/tomorrowland/Core/Layout/images/timeline/2014-1.jpg",
             "status": "Tomorrowland is an electronic dance music festival held in Boom, Belgium. Tomorrowland was first held in 2005, and has since become one of the world's largest and most notable music festivals. It now stretches over 2 weekends and usually sells out in minutes",
             "timeStamp": "1403375851930"
+            "weatherCondition": "Mostly Sunny"
+            "Temprature" : "23"
             
         }
     ]
