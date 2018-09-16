@@ -7,7 +7,7 @@
             "status": "The Sunway Lagoon is a theme park in Bandar Sunway, Subang Jaya, Selangor, Malaysia owned by Sunway Group",
             "timeStamp": "1403375851930",
             "weatherCondition": "Heavy Rain",
-            "Temprature" : "23"
+            "Temprature" : 23
         },
         {
             "id": 2,
@@ -17,7 +17,7 @@
             "profilePic": "https://api.androidhive.info/feed/img/time.png",
             "timeStamp": "1403375851930",
             "weatherCondition": "Thunderstorm",
-            "Temprature": "23"
+            "Temprature": 23
             
         },
         {
@@ -27,7 +27,7 @@
             "status": "Tomorrowland is an electronic dance music festival held in Boom, Belgium. Tomorrowland was first held in 2005, and has since become one of the world's largest and most notable music festivals. It now stretches over 2 weekends and usually sells out in minutes",
             "timeStamp": "1403375851930",
             "weatherCondition": "Mostly Sunny",
-            "Temprature": "23"
+            "Temprature": 23
             
         }
     ]
